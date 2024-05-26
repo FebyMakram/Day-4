@@ -1,0 +1,50 @@
+body{
+    display: grid;
+    justify-content: center;
+}
+
+.pic2{
+  text-align: center;
+}
+
+.part1{
+   width: 50%;
+   margin: auto;
+}
+
+.part2{
+   width: 50%;
+   margin: auto;
+ }
+
+h3{
+   color:rgb(8, 88, 179);
+}
+
+h5{
+   margin-bottom: 0%;
+}
+
+label{
+   color: rgb(8, 88, 179);
+}
+   
+ .date{
+   color: grey;
+ }
+
+.p1{
+   color:grey;
+}
+
+.p2{
+   font-size: large;
+}
+
+.p3{
+   margin-top: 0%;
+}
+
+ .p4{
+   font-size: larger;
+ }
